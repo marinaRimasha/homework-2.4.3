@@ -1,0 +1,27 @@
+{
+  "name": "homework-2.4.3",
+  "version": "1.0.0",
+  "description": "Package for IT switcher homework 2.4.3 using node.js, npm and others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaRimasha/homework-2.4.3.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js"
+  ],
+  "author": "Marina Rimasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinaRimasha/homework-2.4.3/issues"
+  },
+  "homepage": "https://github.com/marinaRimasha/homework-2.4.3#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
