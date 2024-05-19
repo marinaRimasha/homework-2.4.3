@@ -38,6 +38,8 @@ const findTopStudents = (data) => {
   // Получение списка имен студентов с максимальной оценкой
   const topStudentNames = topStudents.map((student) => student.name).join(", ");
 
+  console.log(`Congratulations to ${topStudentNames} having top score ${maxScore} !`);
+
   return { names: topStudentNames, score: maxScore };
 };
 
